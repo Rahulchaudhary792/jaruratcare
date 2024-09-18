@@ -1,4 +1,5 @@
 # jaruratcare<br>
+<h2>"Jaisi Jarurat, Vaisi Care"</h2>
 <h2>API endpoints for the following:</h2><br>
 <h4>•Add a new service:</h4> Fields should include service name, description, and price.<br>
 <h4>•Get all services:</h4> Retrieve a list of all available services.<br>
