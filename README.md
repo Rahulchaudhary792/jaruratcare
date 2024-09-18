@@ -4,6 +4,9 @@
 •Get all services: Retrieve a list of all available services.<br>
 •Update a service: Modify the details of an existing service.<br>
 •Delete a service: Remove a service from the list.<br>
+Technology Stack:<br>
+•Node.js with Express.js.<br>
+•Use MongoDB<br>
 To run the task use following commands:<br>
 npm i<br>
 node index.js<br>
