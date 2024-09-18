@@ -1,0 +1,50 @@
+{
+    "name": "General Consultation",
+    "description": "Consultation with a general physician for routine checkups",
+    "price": 30
+},
+{
+    "name": "Blood Test",
+    "description": "Comprehensive blood test service including CBC and lipid profile",
+    "price": 40
+},
+{
+    "name": "X-Ray",
+    "description": "Standard X-ray service for diagnosing fractures and other conditions",
+    "price": 60
+},
+{
+    "name": "MRI Scan",
+    "description": "Magnetic resonance imaging scan for detailed internal images",
+    "price": 200
+},
+{
+    "name": "Vaccination",
+    "description": "Routine vaccinations including flu shots and COVID-19 vaccines",
+    "price": 25
+},
+{
+    "name": "Physical Therapy",
+    "description": "Therapeutic exercises and treatment for physical rehabilitation",
+    "price": 70
+},
+{
+    "name": "Eye Examination",
+    "description": "Comprehensive eye exam to assess vision and diagnose conditions",
+    "price": 45
+},
+{
+    "name": "Dental Filling",
+    "description": "Filling of cavities to restore tooth structure",
+    "price": 80
+},
+{
+    "name": "Ultrasound",
+    "description": "Diagnostic ultrasound imaging for medical conditions",
+    "price": 90
+},
+{
+    "name": "Cardiac Consultation",
+    "description": "Consultation with a cardiologist for heart health assessments",
+    "price": 150
+}
